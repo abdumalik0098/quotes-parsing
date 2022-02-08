@@ -9,7 +9,7 @@ headers = {
 }
 
 
-for i in range(1, 11):
+for i in range(1,11):
     url = f"https://quotes.toscrape.com/page/{i}/"
     req = requests.get(url, headers=headers)
     src = req.text
@@ -18,19 +18,28 @@ for i in range(1, 11):
     quotes = soup.find_all(class_="quote")
 
     quotes_list = []
+    tags_dict = {}
 
     for item in quotes:
         text = item.find(class_="text").text
         author = item.find(class_="author").text
         author_link = "https://quotes.toscrape.com" + item.find("a").get("href")
-        tags = item.find(class_="keywords").get("content")
-        
+        # tags = item.find(class_="keywords").get("content")
+        tags = item.find_all(class_="tags")
+
+        for t in tags:
+            tag = t.find_all(class_="tag")
+            for j in tag:
+                tagtext = j.text
+                taglink = "https://quotes.toscrape.com" + j.get("href")
+                tags_dict[tagtext] = taglink
+
         quotes_list.append(
             {
                 "Text": text,
                 "Author": author,
                 "About author": author_link,
-                "Tags": tags
+                "Tags": tags_dict
             }
         )
 

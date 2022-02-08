@@ -3,60 +3,250 @@
         "Text": "“The more that you read, the more things you will know. The more that you learn, the more places you'll go.”",
         "Author": "Dr. Seuss",
         "About author": "https://quotes.toscrape.com/author/Dr-Seuss",
-        "Tags": "learning,reading,seuss"
+        "Tags": {
+            "learning": "https://quotes.toscrape.com/tag/learning/page/1/",
+            "reading": "https://quotes.toscrape.com/tag/reading/page/1/",
+            "seuss": "https://quotes.toscrape.com/tag/seuss/page/1/",
+            "dumbledore": "https://quotes.toscrape.com/tag/dumbledore/page/1/",
+            "friendship": "https://quotes.toscrape.com/tag/friendship/page/1/",
+            "misattributed-to-mother-teresa": "https://quotes.toscrape.com/tag/misattributed-to-mother-teresa/page/1/",
+            "paraphrased": "https://quotes.toscrape.com/tag/paraphrased/page/1/",
+            "death": "https://quotes.toscrape.com/tag/death/page/1/",
+            "inspirational": "https://quotes.toscrape.com/tag/inspirational/page/1/",
+            "chocolate": "https://quotes.toscrape.com/tag/chocolate/page/1/",
+            "food": "https://quotes.toscrape.com/tag/food/page/1/",
+            "humor": "https://quotes.toscrape.com/tag/humor/page/1/",
+            "misattributed-to-c-s-lewis": "https://quotes.toscrape.com/tag/misattributed-to-c-s-lewis/page/1/",
+            "knowledge": "https://quotes.toscrape.com/tag/knowledge/page/1/",
+            "understanding": "https://quotes.toscrape.com/tag/understanding/page/1/",
+            "wisdom": "https://quotes.toscrape.com/tag/wisdom/page/1/",
+            "books": "https://quotes.toscrape.com/tag/books/page/1/",
+            "library": "https://quotes.toscrape.com/tag/library/page/1/"
+        }
     },
     {
         "Text": "“Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?”",
         "Author": "J.K. Rowling",
         "About author": "https://quotes.toscrape.com/author/J-K-Rowling",
-        "Tags": "dumbledore"
+        "Tags": {
+            "learning": "https://quotes.toscrape.com/tag/learning/page/1/",
+            "reading": "https://quotes.toscrape.com/tag/reading/page/1/",
+            "seuss": "https://quotes.toscrape.com/tag/seuss/page/1/",
+            "dumbledore": "https://quotes.toscrape.com/tag/dumbledore/page/1/",
+            "friendship": "https://quotes.toscrape.com/tag/friendship/page/1/",
+            "misattributed-to-mother-teresa": "https://quotes.toscrape.com/tag/misattributed-to-mother-teresa/page/1/",
+            "paraphrased": "https://quotes.toscrape.com/tag/paraphrased/page/1/",
+            "death": "https://quotes.toscrape.com/tag/death/page/1/",
+            "inspirational": "https://quotes.toscrape.com/tag/inspirational/page/1/",
+            "chocolate": "https://quotes.toscrape.com/tag/chocolate/page/1/",
+            "food": "https://quotes.toscrape.com/tag/food/page/1/",
+            "humor": "https://quotes.toscrape.com/tag/humor/page/1/",
+            "misattributed-to-c-s-lewis": "https://quotes.toscrape.com/tag/misattributed-to-c-s-lewis/page/1/",
+            "knowledge": "https://quotes.toscrape.com/tag/knowledge/page/1/",
+            "understanding": "https://quotes.toscrape.com/tag/understanding/page/1/",
+            "wisdom": "https://quotes.toscrape.com/tag/wisdom/page/1/",
+            "books": "https://quotes.toscrape.com/tag/books/page/1/",
+            "library": "https://quotes.toscrape.com/tag/library/page/1/"
+        }
     },
     {
         "Text": "“The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.”",
         "Author": "Bob Marley",
         "About author": "https://quotes.toscrape.com/author/Bob-Marley",
-        "Tags": "friendship"
+        "Tags": {
+            "learning": "https://quotes.toscrape.com/tag/learning/page/1/",
+            "reading": "https://quotes.toscrape.com/tag/reading/page/1/",
+            "seuss": "https://quotes.toscrape.com/tag/seuss/page/1/",
+            "dumbledore": "https://quotes.toscrape.com/tag/dumbledore/page/1/",
+            "friendship": "https://quotes.toscrape.com/tag/friendship/page/1/",
+            "misattributed-to-mother-teresa": "https://quotes.toscrape.com/tag/misattributed-to-mother-teresa/page/1/",
+            "paraphrased": "https://quotes.toscrape.com/tag/paraphrased/page/1/",
+            "death": "https://quotes.toscrape.com/tag/death/page/1/",
+            "inspirational": "https://quotes.toscrape.com/tag/inspirational/page/1/",
+            "chocolate": "https://quotes.toscrape.com/tag/chocolate/page/1/",
+            "food": "https://quotes.toscrape.com/tag/food/page/1/",
+            "humor": "https://quotes.toscrape.com/tag/humor/page/1/",
+            "misattributed-to-c-s-lewis": "https://quotes.toscrape.com/tag/misattributed-to-c-s-lewis/page/1/",
+            "knowledge": "https://quotes.toscrape.com/tag/knowledge/page/1/",
+            "understanding": "https://quotes.toscrape.com/tag/understanding/page/1/",
+            "wisdom": "https://quotes.toscrape.com/tag/wisdom/page/1/",
+            "books": "https://quotes.toscrape.com/tag/books/page/1/",
+            "library": "https://quotes.toscrape.com/tag/library/page/1/"
+        }
     },
     {
         "Text": "“Not all of us can do great things. But we can do small things with great love.”",
         "Author": "Mother Teresa",
         "About author": "https://quotes.toscrape.com/author/Mother-Teresa",
-        "Tags": "misattributed-to-mother-teresa,paraphrased"
+        "Tags": {
+            "learning": "https://quotes.toscrape.com/tag/learning/page/1/",
+            "reading": "https://quotes.toscrape.com/tag/reading/page/1/",
+            "seuss": "https://quotes.toscrape.com/tag/seuss/page/1/",
+            "dumbledore": "https://quotes.toscrape.com/tag/dumbledore/page/1/",
+            "friendship": "https://quotes.toscrape.com/tag/friendship/page/1/",
+            "misattributed-to-mother-teresa": "https://quotes.toscrape.com/tag/misattributed-to-mother-teresa/page/1/",
+            "paraphrased": "https://quotes.toscrape.com/tag/paraphrased/page/1/",
+            "death": "https://quotes.toscrape.com/tag/death/page/1/",
+            "inspirational": "https://quotes.toscrape.com/tag/inspirational/page/1/",
+            "chocolate": "https://quotes.toscrape.com/tag/chocolate/page/1/",
+            "food": "https://quotes.toscrape.com/tag/food/page/1/",
+            "humor": "https://quotes.toscrape.com/tag/humor/page/1/",
+            "misattributed-to-c-s-lewis": "https://quotes.toscrape.com/tag/misattributed-to-c-s-lewis/page/1/",
+            "knowledge": "https://quotes.toscrape.com/tag/knowledge/page/1/",
+            "understanding": "https://quotes.toscrape.com/tag/understanding/page/1/",
+            "wisdom": "https://quotes.toscrape.com/tag/wisdom/page/1/",
+            "books": "https://quotes.toscrape.com/tag/books/page/1/",
+            "library": "https://quotes.toscrape.com/tag/library/page/1/"
+        }
     },
     {
         "Text": "“To the well-organized mind, death is but the next great adventure.”",
         "Author": "J.K. Rowling",
         "About author": "https://quotes.toscrape.com/author/J-K-Rowling",
-        "Tags": "death,inspirational"
+        "Tags": {
+            "learning": "https://quotes.toscrape.com/tag/learning/page/1/",
+            "reading": "https://quotes.toscrape.com/tag/reading/page/1/",
+            "seuss": "https://quotes.toscrape.com/tag/seuss/page/1/",
+            "dumbledore": "https://quotes.toscrape.com/tag/dumbledore/page/1/",
+            "friendship": "https://quotes.toscrape.com/tag/friendship/page/1/",
+            "misattributed-to-mother-teresa": "https://quotes.toscrape.com/tag/misattributed-to-mother-teresa/page/1/",
+            "paraphrased": "https://quotes.toscrape.com/tag/paraphrased/page/1/",
+            "death": "https://quotes.toscrape.com/tag/death/page/1/",
+            "inspirational": "https://quotes.toscrape.com/tag/inspirational/page/1/",
+            "chocolate": "https://quotes.toscrape.com/tag/chocolate/page/1/",
+            "food": "https://quotes.toscrape.com/tag/food/page/1/",
+            "humor": "https://quotes.toscrape.com/tag/humor/page/1/",
+            "misattributed-to-c-s-lewis": "https://quotes.toscrape.com/tag/misattributed-to-c-s-lewis/page/1/",
+            "knowledge": "https://quotes.toscrape.com/tag/knowledge/page/1/",
+            "understanding": "https://quotes.toscrape.com/tag/understanding/page/1/",
+            "wisdom": "https://quotes.toscrape.com/tag/wisdom/page/1/",
+            "books": "https://quotes.toscrape.com/tag/books/page/1/",
+            "library": "https://quotes.toscrape.com/tag/library/page/1/"
+        }
     },
     {
         "Text": "“All you need is love. But a little chocolate now and then doesn't hurt.”",
         "Author": "Charles M. Schulz",
         "About author": "https://quotes.toscrape.com/author/Charles-M-Schulz",
-        "Tags": "chocolate,food,humor"
+        "Tags": {
+            "learning": "https://quotes.toscrape.com/tag/learning/page/1/",
+            "reading": "https://quotes.toscrape.com/tag/reading/page/1/",
+            "seuss": "https://quotes.toscrape.com/tag/seuss/page/1/",
+            "dumbledore": "https://quotes.toscrape.com/tag/dumbledore/page/1/",
+            "friendship": "https://quotes.toscrape.com/tag/friendship/page/1/",
+            "misattributed-to-mother-teresa": "https://quotes.toscrape.com/tag/misattributed-to-mother-teresa/page/1/",
+            "paraphrased": "https://quotes.toscrape.com/tag/paraphrased/page/1/",
+            "death": "https://quotes.toscrape.com/tag/death/page/1/",
+            "inspirational": "https://quotes.toscrape.com/tag/inspirational/page/1/",
+            "chocolate": "https://quotes.toscrape.com/tag/chocolate/page/1/",
+            "food": "https://quotes.toscrape.com/tag/food/page/1/",
+            "humor": "https://quotes.toscrape.com/tag/humor/page/1/",
+            "misattributed-to-c-s-lewis": "https://quotes.toscrape.com/tag/misattributed-to-c-s-lewis/page/1/",
+            "knowledge": "https://quotes.toscrape.com/tag/knowledge/page/1/",
+            "understanding": "https://quotes.toscrape.com/tag/understanding/page/1/",
+            "wisdom": "https://quotes.toscrape.com/tag/wisdom/page/1/",
+            "books": "https://quotes.toscrape.com/tag/books/page/1/",
+            "library": "https://quotes.toscrape.com/tag/library/page/1/"
+        }
     },
     {
         "Text": "“We read to know we're not alone.”",
         "Author": "William Nicholson",
         "About author": "https://quotes.toscrape.com/author/William-Nicholson",
-        "Tags": "misattributed-to-c-s-lewis,reading"
+        "Tags": {
+            "learning": "https://quotes.toscrape.com/tag/learning/page/1/",
+            "reading": "https://quotes.toscrape.com/tag/reading/page/1/",
+            "seuss": "https://quotes.toscrape.com/tag/seuss/page/1/",
+            "dumbledore": "https://quotes.toscrape.com/tag/dumbledore/page/1/",
+            "friendship": "https://quotes.toscrape.com/tag/friendship/page/1/",
+            "misattributed-to-mother-teresa": "https://quotes.toscrape.com/tag/misattributed-to-mother-teresa/page/1/",
+            "paraphrased": "https://quotes.toscrape.com/tag/paraphrased/page/1/",
+            "death": "https://quotes.toscrape.com/tag/death/page/1/",
+            "inspirational": "https://quotes.toscrape.com/tag/inspirational/page/1/",
+            "chocolate": "https://quotes.toscrape.com/tag/chocolate/page/1/",
+            "food": "https://quotes.toscrape.com/tag/food/page/1/",
+            "humor": "https://quotes.toscrape.com/tag/humor/page/1/",
+            "misattributed-to-c-s-lewis": "https://quotes.toscrape.com/tag/misattributed-to-c-s-lewis/page/1/",
+            "knowledge": "https://quotes.toscrape.com/tag/knowledge/page/1/",
+            "understanding": "https://quotes.toscrape.com/tag/understanding/page/1/",
+            "wisdom": "https://quotes.toscrape.com/tag/wisdom/page/1/",
+            "books": "https://quotes.toscrape.com/tag/books/page/1/",
+            "library": "https://quotes.toscrape.com/tag/library/page/1/"
+        }
     },
     {
         "Text": "“Any fool can know. The point is to understand.”",
         "Author": "Albert Einstein",
         "About author": "https://quotes.toscrape.com/author/Albert-Einstein",
-        "Tags": "knowledge,learning,understanding,wisdom"
+        "Tags": {
+            "learning": "https://quotes.toscrape.com/tag/learning/page/1/",
+            "reading": "https://quotes.toscrape.com/tag/reading/page/1/",
+            "seuss": "https://quotes.toscrape.com/tag/seuss/page/1/",
+            "dumbledore": "https://quotes.toscrape.com/tag/dumbledore/page/1/",
+            "friendship": "https://quotes.toscrape.com/tag/friendship/page/1/",
+            "misattributed-to-mother-teresa": "https://quotes.toscrape.com/tag/misattributed-to-mother-teresa/page/1/",
+            "paraphrased": "https://quotes.toscrape.com/tag/paraphrased/page/1/",
+            "death": "https://quotes.toscrape.com/tag/death/page/1/",
+            "inspirational": "https://quotes.toscrape.com/tag/inspirational/page/1/",
+            "chocolate": "https://quotes.toscrape.com/tag/chocolate/page/1/",
+            "food": "https://quotes.toscrape.com/tag/food/page/1/",
+            "humor": "https://quotes.toscrape.com/tag/humor/page/1/",
+            "misattributed-to-c-s-lewis": "https://quotes.toscrape.com/tag/misattributed-to-c-s-lewis/page/1/",
+            "knowledge": "https://quotes.toscrape.com/tag/knowledge/page/1/",
+            "understanding": "https://quotes.toscrape.com/tag/understanding/page/1/",
+            "wisdom": "https://quotes.toscrape.com/tag/wisdom/page/1/",
+            "books": "https://quotes.toscrape.com/tag/books/page/1/",
+            "library": "https://quotes.toscrape.com/tag/library/page/1/"
+        }
     },
     {
         "Text": "“I have always imagined that Paradise will be a kind of library.”",
         "Author": "Jorge Luis Borges",
         "About author": "https://quotes.toscrape.com/author/Jorge-Luis-Borges",
-        "Tags": "books,library"
+        "Tags": {
+            "learning": "https://quotes.toscrape.com/tag/learning/page/1/",
+            "reading": "https://quotes.toscrape.com/tag/reading/page/1/",
+            "seuss": "https://quotes.toscrape.com/tag/seuss/page/1/",
+            "dumbledore": "https://quotes.toscrape.com/tag/dumbledore/page/1/",
+            "friendship": "https://quotes.toscrape.com/tag/friendship/page/1/",
+            "misattributed-to-mother-teresa": "https://quotes.toscrape.com/tag/misattributed-to-mother-teresa/page/1/",
+            "paraphrased": "https://quotes.toscrape.com/tag/paraphrased/page/1/",
+            "death": "https://quotes.toscrape.com/tag/death/page/1/",
+            "inspirational": "https://quotes.toscrape.com/tag/inspirational/page/1/",
+            "chocolate": "https://quotes.toscrape.com/tag/chocolate/page/1/",
+            "food": "https://quotes.toscrape.com/tag/food/page/1/",
+            "humor": "https://quotes.toscrape.com/tag/humor/page/1/",
+            "misattributed-to-c-s-lewis": "https://quotes.toscrape.com/tag/misattributed-to-c-s-lewis/page/1/",
+            "knowledge": "https://quotes.toscrape.com/tag/knowledge/page/1/",
+            "understanding": "https://quotes.toscrape.com/tag/understanding/page/1/",
+            "wisdom": "https://quotes.toscrape.com/tag/wisdom/page/1/",
+            "books": "https://quotes.toscrape.com/tag/books/page/1/",
+            "library": "https://quotes.toscrape.com/tag/library/page/1/"
+        }
     },
     {
         "Text": "“It is never too late to be what you might have been.”",
         "Author": "George Eliot",
         "About author": "https://quotes.toscrape.com/author/George-Eliot",
-        "Tags": "inspirational"
+        "Tags": {
+            "learning": "https://quotes.toscrape.com/tag/learning/page/1/",
+            "reading": "https://quotes.toscrape.com/tag/reading/page/1/",
+            "seuss": "https://quotes.toscrape.com/tag/seuss/page/1/",
+            "dumbledore": "https://quotes.toscrape.com/tag/dumbledore/page/1/",
+            "friendship": "https://quotes.toscrape.com/tag/friendship/page/1/",
+            "misattributed-to-mother-teresa": "https://quotes.toscrape.com/tag/misattributed-to-mother-teresa/page/1/",
+            "paraphrased": "https://quotes.toscrape.com/tag/paraphrased/page/1/",
+            "death": "https://quotes.toscrape.com/tag/death/page/1/",
+            "inspirational": "https://quotes.toscrape.com/tag/inspirational/page/1/",
+            "chocolate": "https://quotes.toscrape.com/tag/chocolate/page/1/",
+            "food": "https://quotes.toscrape.com/tag/food/page/1/",
+            "humor": "https://quotes.toscrape.com/tag/humor/page/1/",
+            "misattributed-to-c-s-lewis": "https://quotes.toscrape.com/tag/misattributed-to-c-s-lewis/page/1/",
+            "knowledge": "https://quotes.toscrape.com/tag/knowledge/page/1/",
+            "understanding": "https://quotes.toscrape.com/tag/understanding/page/1/",
+            "wisdom": "https://quotes.toscrape.com/tag/wisdom/page/1/",
+            "books": "https://quotes.toscrape.com/tag/books/page/1/",
+            "library": "https://quotes.toscrape.com/tag/library/page/1/"
+        }
     }
 ]

@@ -3,60 +3,230 @@
         "Text": "“The truth.\" Dumbledore sighed. \"It is a beautiful and terrible thing, and should therefore be treated with great caution.”",
         "Author": "J.K. Rowling",
         "About author": "https://quotes.toscrape.com/author/J-K-Rowling",
-        "Tags": "truth"
+        "Tags": {
+            "truth": "https://quotes.toscrape.com/tag/truth/page/1/",
+            "death": "https://quotes.toscrape.com/tag/death/page/1/",
+            "life": "https://quotes.toscrape.com/tag/life/page/1/",
+            "adventure": "https://quotes.toscrape.com/tag/adventure/page/1/",
+            "love": "https://quotes.toscrape.com/tag/love/page/1/",
+            "courage": "https://quotes.toscrape.com/tag/courage/page/1/",
+            "better-life-empathy": "https://quotes.toscrape.com/tag/better-life-empathy/page/1/",
+            "books": "https://quotes.toscrape.com/tag/books/page/1/",
+            "children": "https://quotes.toscrape.com/tag/children/page/1/",
+            "difficult": "https://quotes.toscrape.com/tag/difficult/page/1/",
+            "grown-ups": "https://quotes.toscrape.com/tag/grown-ups/page/1/",
+            "write": "https://quotes.toscrape.com/tag/write/page/1/",
+            "writers": "https://quotes.toscrape.com/tag/writers/page/1/",
+            "writing": "https://quotes.toscrape.com/tag/writing/page/1/",
+            "inspirational": "https://quotes.toscrape.com/tag/inspirational/page/1/",
+            "mind": "https://quotes.toscrape.com/tag/mind/page/1/"
+        }
     },
     {
         "Text": "“I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.”",
         "Author": "Jimi Hendrix",
         "About author": "https://quotes.toscrape.com/author/Jimi-Hendrix",
-        "Tags": "death,life"
+        "Tags": {
+            "truth": "https://quotes.toscrape.com/tag/truth/page/1/",
+            "death": "https://quotes.toscrape.com/tag/death/page/1/",
+            "life": "https://quotes.toscrape.com/tag/life/page/1/",
+            "adventure": "https://quotes.toscrape.com/tag/adventure/page/1/",
+            "love": "https://quotes.toscrape.com/tag/love/page/1/",
+            "courage": "https://quotes.toscrape.com/tag/courage/page/1/",
+            "better-life-empathy": "https://quotes.toscrape.com/tag/better-life-empathy/page/1/",
+            "books": "https://quotes.toscrape.com/tag/books/page/1/",
+            "children": "https://quotes.toscrape.com/tag/children/page/1/",
+            "difficult": "https://quotes.toscrape.com/tag/difficult/page/1/",
+            "grown-ups": "https://quotes.toscrape.com/tag/grown-ups/page/1/",
+            "write": "https://quotes.toscrape.com/tag/write/page/1/",
+            "writers": "https://quotes.toscrape.com/tag/writers/page/1/",
+            "writing": "https://quotes.toscrape.com/tag/writing/page/1/",
+            "inspirational": "https://quotes.toscrape.com/tag/inspirational/page/1/",
+            "mind": "https://quotes.toscrape.com/tag/mind/page/1/"
+        }
     },
     {
         "Text": "“To die will be an awfully big adventure.”",
         "Author": "J.M. Barrie",
         "About author": "https://quotes.toscrape.com/author/J-M-Barrie",
-        "Tags": "adventure,love"
+        "Tags": {
+            "truth": "https://quotes.toscrape.com/tag/truth/page/1/",
+            "death": "https://quotes.toscrape.com/tag/death/page/1/",
+            "life": "https://quotes.toscrape.com/tag/life/page/1/",
+            "adventure": "https://quotes.toscrape.com/tag/adventure/page/1/",
+            "love": "https://quotes.toscrape.com/tag/love/page/1/",
+            "courage": "https://quotes.toscrape.com/tag/courage/page/1/",
+            "better-life-empathy": "https://quotes.toscrape.com/tag/better-life-empathy/page/1/",
+            "books": "https://quotes.toscrape.com/tag/books/page/1/",
+            "children": "https://quotes.toscrape.com/tag/children/page/1/",
+            "difficult": "https://quotes.toscrape.com/tag/difficult/page/1/",
+            "grown-ups": "https://quotes.toscrape.com/tag/grown-ups/page/1/",
+            "write": "https://quotes.toscrape.com/tag/write/page/1/",
+            "writers": "https://quotes.toscrape.com/tag/writers/page/1/",
+            "writing": "https://quotes.toscrape.com/tag/writing/page/1/",
+            "inspirational": "https://quotes.toscrape.com/tag/inspirational/page/1/",
+            "mind": "https://quotes.toscrape.com/tag/mind/page/1/"
+        }
     },
     {
         "Text": "“It takes courage to grow up and become who you really are.”",
         "Author": "E.E. Cummings",
         "About author": "https://quotes.toscrape.com/author/E-E-Cummings",
-        "Tags": "courage"
+        "Tags": {
+            "truth": "https://quotes.toscrape.com/tag/truth/page/1/",
+            "death": "https://quotes.toscrape.com/tag/death/page/1/",
+            "life": "https://quotes.toscrape.com/tag/life/page/1/",
+            "adventure": "https://quotes.toscrape.com/tag/adventure/page/1/",
+            "love": "https://quotes.toscrape.com/tag/love/page/1/",
+            "courage": "https://quotes.toscrape.com/tag/courage/page/1/",
+            "better-life-empathy": "https://quotes.toscrape.com/tag/better-life-empathy/page/1/",
+            "books": "https://quotes.toscrape.com/tag/books/page/1/",
+            "children": "https://quotes.toscrape.com/tag/children/page/1/",
+            "difficult": "https://quotes.toscrape.com/tag/difficult/page/1/",
+            "grown-ups": "https://quotes.toscrape.com/tag/grown-ups/page/1/",
+            "write": "https://quotes.toscrape.com/tag/write/page/1/",
+            "writers": "https://quotes.toscrape.com/tag/writers/page/1/",
+            "writing": "https://quotes.toscrape.com/tag/writing/page/1/",
+            "inspirational": "https://quotes.toscrape.com/tag/inspirational/page/1/",
+            "mind": "https://quotes.toscrape.com/tag/mind/page/1/"
+        }
     },
     {
         "Text": "“But better to get hurt by the truth than comforted with a lie.”",
         "Author": "Khaled Hosseini",
         "About author": "https://quotes.toscrape.com/author/Khaled-Hosseini",
-        "Tags": "life"
+        "Tags": {
+            "truth": "https://quotes.toscrape.com/tag/truth/page/1/",
+            "death": "https://quotes.toscrape.com/tag/death/page/1/",
+            "life": "https://quotes.toscrape.com/tag/life/page/1/",
+            "adventure": "https://quotes.toscrape.com/tag/adventure/page/1/",
+            "love": "https://quotes.toscrape.com/tag/love/page/1/",
+            "courage": "https://quotes.toscrape.com/tag/courage/page/1/",
+            "better-life-empathy": "https://quotes.toscrape.com/tag/better-life-empathy/page/1/",
+            "books": "https://quotes.toscrape.com/tag/books/page/1/",
+            "children": "https://quotes.toscrape.com/tag/children/page/1/",
+            "difficult": "https://quotes.toscrape.com/tag/difficult/page/1/",
+            "grown-ups": "https://quotes.toscrape.com/tag/grown-ups/page/1/",
+            "write": "https://quotes.toscrape.com/tag/write/page/1/",
+            "writers": "https://quotes.toscrape.com/tag/writers/page/1/",
+            "writing": "https://quotes.toscrape.com/tag/writing/page/1/",
+            "inspirational": "https://quotes.toscrape.com/tag/inspirational/page/1/",
+            "mind": "https://quotes.toscrape.com/tag/mind/page/1/"
+        }
     },
     {
         "Text": "“You never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.”",
         "Author": "Harper Lee",
         "About author": "https://quotes.toscrape.com/author/Harper-Lee",
-        "Tags": "better-life-empathy"
+        "Tags": {
+            "truth": "https://quotes.toscrape.com/tag/truth/page/1/",
+            "death": "https://quotes.toscrape.com/tag/death/page/1/",
+            "life": "https://quotes.toscrape.com/tag/life/page/1/",
+            "adventure": "https://quotes.toscrape.com/tag/adventure/page/1/",
+            "love": "https://quotes.toscrape.com/tag/love/page/1/",
+            "courage": "https://quotes.toscrape.com/tag/courage/page/1/",
+            "better-life-empathy": "https://quotes.toscrape.com/tag/better-life-empathy/page/1/",
+            "books": "https://quotes.toscrape.com/tag/books/page/1/",
+            "children": "https://quotes.toscrape.com/tag/children/page/1/",
+            "difficult": "https://quotes.toscrape.com/tag/difficult/page/1/",
+            "grown-ups": "https://quotes.toscrape.com/tag/grown-ups/page/1/",
+            "write": "https://quotes.toscrape.com/tag/write/page/1/",
+            "writers": "https://quotes.toscrape.com/tag/writers/page/1/",
+            "writing": "https://quotes.toscrape.com/tag/writing/page/1/",
+            "inspirational": "https://quotes.toscrape.com/tag/inspirational/page/1/",
+            "mind": "https://quotes.toscrape.com/tag/mind/page/1/"
+        }
     },
     {
         "Text": "“You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.”",
         "Author": "Madeleine L'Engle",
         "About author": "https://quotes.toscrape.com/author/Madeleine-LEngle",
-        "Tags": "books,children,difficult,grown-ups,write,writers,writing"
+        "Tags": {
+            "truth": "https://quotes.toscrape.com/tag/truth/page/1/",
+            "death": "https://quotes.toscrape.com/tag/death/page/1/",
+            "life": "https://quotes.toscrape.com/tag/life/page/1/",
+            "adventure": "https://quotes.toscrape.com/tag/adventure/page/1/",
+            "love": "https://quotes.toscrape.com/tag/love/page/1/",
+            "courage": "https://quotes.toscrape.com/tag/courage/page/1/",
+            "better-life-empathy": "https://quotes.toscrape.com/tag/better-life-empathy/page/1/",
+            "books": "https://quotes.toscrape.com/tag/books/page/1/",
+            "children": "https://quotes.toscrape.com/tag/children/page/1/",
+            "difficult": "https://quotes.toscrape.com/tag/difficult/page/1/",
+            "grown-ups": "https://quotes.toscrape.com/tag/grown-ups/page/1/",
+            "write": "https://quotes.toscrape.com/tag/write/page/1/",
+            "writers": "https://quotes.toscrape.com/tag/writers/page/1/",
+            "writing": "https://quotes.toscrape.com/tag/writing/page/1/",
+            "inspirational": "https://quotes.toscrape.com/tag/inspirational/page/1/",
+            "mind": "https://quotes.toscrape.com/tag/mind/page/1/"
+        }
     },
     {
         "Text": "“Never tell the truth to people who are not worthy of it.”",
         "Author": "Mark Twain",
         "About author": "https://quotes.toscrape.com/author/Mark-Twain",
-        "Tags": "truth"
+        "Tags": {
+            "truth": "https://quotes.toscrape.com/tag/truth/page/1/",
+            "death": "https://quotes.toscrape.com/tag/death/page/1/",
+            "life": "https://quotes.toscrape.com/tag/life/page/1/",
+            "adventure": "https://quotes.toscrape.com/tag/adventure/page/1/",
+            "love": "https://quotes.toscrape.com/tag/love/page/1/",
+            "courage": "https://quotes.toscrape.com/tag/courage/page/1/",
+            "better-life-empathy": "https://quotes.toscrape.com/tag/better-life-empathy/page/1/",
+            "books": "https://quotes.toscrape.com/tag/books/page/1/",
+            "children": "https://quotes.toscrape.com/tag/children/page/1/",
+            "difficult": "https://quotes.toscrape.com/tag/difficult/page/1/",
+            "grown-ups": "https://quotes.toscrape.com/tag/grown-ups/page/1/",
+            "write": "https://quotes.toscrape.com/tag/write/page/1/",
+            "writers": "https://quotes.toscrape.com/tag/writers/page/1/",
+            "writing": "https://quotes.toscrape.com/tag/writing/page/1/",
+            "inspirational": "https://quotes.toscrape.com/tag/inspirational/page/1/",
+            "mind": "https://quotes.toscrape.com/tag/mind/page/1/"
+        }
     },
     {
         "Text": "“A person's a person, no matter how small.”",
         "Author": "Dr. Seuss",
         "About author": "https://quotes.toscrape.com/author/Dr-Seuss",
-        "Tags": "inspirational"
+        "Tags": {
+            "truth": "https://quotes.toscrape.com/tag/truth/page/1/",
+            "death": "https://quotes.toscrape.com/tag/death/page/1/",
+            "life": "https://quotes.toscrape.com/tag/life/page/1/",
+            "adventure": "https://quotes.toscrape.com/tag/adventure/page/1/",
+            "love": "https://quotes.toscrape.com/tag/love/page/1/",
+            "courage": "https://quotes.toscrape.com/tag/courage/page/1/",
+            "better-life-empathy": "https://quotes.toscrape.com/tag/better-life-empathy/page/1/",
+            "books": "https://quotes.toscrape.com/tag/books/page/1/",
+            "children": "https://quotes.toscrape.com/tag/children/page/1/",
+            "difficult": "https://quotes.toscrape.com/tag/difficult/page/1/",
+            "grown-ups": "https://quotes.toscrape.com/tag/grown-ups/page/1/",
+            "write": "https://quotes.toscrape.com/tag/write/page/1/",
+            "writers": "https://quotes.toscrape.com/tag/writers/page/1/",
+            "writing": "https://quotes.toscrape.com/tag/writing/page/1/",
+            "inspirational": "https://quotes.toscrape.com/tag/inspirational/page/1/",
+            "mind": "https://quotes.toscrape.com/tag/mind/page/1/"
+        }
     },
     {
         "Text": "“... a mind needs books as a sword needs a whetstone, if it is to keep its edge.”",
         "Author": "George R.R. Martin",
         "About author": "https://quotes.toscrape.com/author/George-R-R-Martin",
-        "Tags": "books,mind"
+        "Tags": {
+            "truth": "https://quotes.toscrape.com/tag/truth/page/1/",
+            "death": "https://quotes.toscrape.com/tag/death/page/1/",
+            "life": "https://quotes.toscrape.com/tag/life/page/1/",
+            "adventure": "https://quotes.toscrape.com/tag/adventure/page/1/",
+            "love": "https://quotes.toscrape.com/tag/love/page/1/",
+            "courage": "https://quotes.toscrape.com/tag/courage/page/1/",
+            "better-life-empathy": "https://quotes.toscrape.com/tag/better-life-empathy/page/1/",
+            "books": "https://quotes.toscrape.com/tag/books/page/1/",
+            "children": "https://quotes.toscrape.com/tag/children/page/1/",
+            "difficult": "https://quotes.toscrape.com/tag/difficult/page/1/",
+            "grown-ups": "https://quotes.toscrape.com/tag/grown-ups/page/1/",
+            "write": "https://quotes.toscrape.com/tag/write/page/1/",
+            "writers": "https://quotes.toscrape.com/tag/writers/page/1/",
+            "writing": "https://quotes.toscrape.com/tag/writing/page/1/",
+            "inspirational": "https://quotes.toscrape.com/tag/inspirational/page/1/",
+            "mind": "https://quotes.toscrape.com/tag/mind/page/1/"
+        }
     }
 ]

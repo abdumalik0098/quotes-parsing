@@ -3,60 +3,200 @@
         "Text": "“I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.”",
         "Author": "Pablo Neruda",
         "About author": "https://quotes.toscrape.com/author/Pablo-Neruda",
-        "Tags": "love,poetry"
+        "Tags": {
+            "love": "https://quotes.toscrape.com/tag/love/page/1/",
+            "poetry": "https://quotes.toscrape.com/tag/poetry/page/1/",
+            "happiness": "https://quotes.toscrape.com/tag/happiness/page/1/",
+            "attributed-no-source": "https://quotes.toscrape.com/tag/attributed-no-source/page/1/",
+            "humor": "https://quotes.toscrape.com/tag/humor/page/1/",
+            "religion": "https://quotes.toscrape.com/tag/religion/page/1/",
+            "comedy": "https://quotes.toscrape.com/tag/comedy/page/1/",
+            "life": "https://quotes.toscrape.com/tag/life/page/1/",
+            "yourself": "https://quotes.toscrape.com/tag/yourself/page/1/",
+            "children": "https://quotes.toscrape.com/tag/children/page/1/",
+            "fairy-tales": "https://quotes.toscrape.com/tag/fairy-tales/page/1/",
+            "imagination": "https://quotes.toscrape.com/tag/imagination/page/1/",
+            "music": "https://quotes.toscrape.com/tag/music/page/1/"
+        }
     },
     {
         "Text": "“For every minute you are angry you lose sixty seconds of happiness.”",
         "Author": "Ralph Waldo Emerson",
         "About author": "https://quotes.toscrape.com/author/Ralph-Waldo-Emerson",
-        "Tags": "happiness"
+        "Tags": {
+            "love": "https://quotes.toscrape.com/tag/love/page/1/",
+            "poetry": "https://quotes.toscrape.com/tag/poetry/page/1/",
+            "happiness": "https://quotes.toscrape.com/tag/happiness/page/1/",
+            "attributed-no-source": "https://quotes.toscrape.com/tag/attributed-no-source/page/1/",
+            "humor": "https://quotes.toscrape.com/tag/humor/page/1/",
+            "religion": "https://quotes.toscrape.com/tag/religion/page/1/",
+            "comedy": "https://quotes.toscrape.com/tag/comedy/page/1/",
+            "life": "https://quotes.toscrape.com/tag/life/page/1/",
+            "yourself": "https://quotes.toscrape.com/tag/yourself/page/1/",
+            "children": "https://quotes.toscrape.com/tag/children/page/1/",
+            "fairy-tales": "https://quotes.toscrape.com/tag/fairy-tales/page/1/",
+            "imagination": "https://quotes.toscrape.com/tag/imagination/page/1/",
+            "music": "https://quotes.toscrape.com/tag/music/page/1/"
+        }
     },
     {
         "Text": "“If you judge people, you have no time to love them.”",
         "Author": "Mother Teresa",
         "About author": "https://quotes.toscrape.com/author/Mother-Teresa",
-        "Tags": "attributed-no-source"
+        "Tags": {
+            "love": "https://quotes.toscrape.com/tag/love/page/1/",
+            "poetry": "https://quotes.toscrape.com/tag/poetry/page/1/",
+            "happiness": "https://quotes.toscrape.com/tag/happiness/page/1/",
+            "attributed-no-source": "https://quotes.toscrape.com/tag/attributed-no-source/page/1/",
+            "humor": "https://quotes.toscrape.com/tag/humor/page/1/",
+            "religion": "https://quotes.toscrape.com/tag/religion/page/1/",
+            "comedy": "https://quotes.toscrape.com/tag/comedy/page/1/",
+            "life": "https://quotes.toscrape.com/tag/life/page/1/",
+            "yourself": "https://quotes.toscrape.com/tag/yourself/page/1/",
+            "children": "https://quotes.toscrape.com/tag/children/page/1/",
+            "fairy-tales": "https://quotes.toscrape.com/tag/fairy-tales/page/1/",
+            "imagination": "https://quotes.toscrape.com/tag/imagination/page/1/",
+            "music": "https://quotes.toscrape.com/tag/music/page/1/"
+        }
     },
     {
         "Text": "“Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.”",
         "Author": "Garrison Keillor",
         "About author": "https://quotes.toscrape.com/author/Garrison-Keillor",
-        "Tags": "humor,religion"
+        "Tags": {
+            "love": "https://quotes.toscrape.com/tag/love/page/1/",
+            "poetry": "https://quotes.toscrape.com/tag/poetry/page/1/",
+            "happiness": "https://quotes.toscrape.com/tag/happiness/page/1/",
+            "attributed-no-source": "https://quotes.toscrape.com/tag/attributed-no-source/page/1/",
+            "humor": "https://quotes.toscrape.com/tag/humor/page/1/",
+            "religion": "https://quotes.toscrape.com/tag/religion/page/1/",
+            "comedy": "https://quotes.toscrape.com/tag/comedy/page/1/",
+            "life": "https://quotes.toscrape.com/tag/life/page/1/",
+            "yourself": "https://quotes.toscrape.com/tag/yourself/page/1/",
+            "children": "https://quotes.toscrape.com/tag/children/page/1/",
+            "fairy-tales": "https://quotes.toscrape.com/tag/fairy-tales/page/1/",
+            "imagination": "https://quotes.toscrape.com/tag/imagination/page/1/",
+            "music": "https://quotes.toscrape.com/tag/music/page/1/"
+        }
     },
     {
         "Text": "“Beauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye.”",
         "Author": "Jim Henson",
         "About author": "https://quotes.toscrape.com/author/Jim-Henson",
-        "Tags": "humor"
+        "Tags": {
+            "love": "https://quotes.toscrape.com/tag/love/page/1/",
+            "poetry": "https://quotes.toscrape.com/tag/poetry/page/1/",
+            "happiness": "https://quotes.toscrape.com/tag/happiness/page/1/",
+            "attributed-no-source": "https://quotes.toscrape.com/tag/attributed-no-source/page/1/",
+            "humor": "https://quotes.toscrape.com/tag/humor/page/1/",
+            "religion": "https://quotes.toscrape.com/tag/religion/page/1/",
+            "comedy": "https://quotes.toscrape.com/tag/comedy/page/1/",
+            "life": "https://quotes.toscrape.com/tag/life/page/1/",
+            "yourself": "https://quotes.toscrape.com/tag/yourself/page/1/",
+            "children": "https://quotes.toscrape.com/tag/children/page/1/",
+            "fairy-tales": "https://quotes.toscrape.com/tag/fairy-tales/page/1/",
+            "imagination": "https://quotes.toscrape.com/tag/imagination/page/1/",
+            "music": "https://quotes.toscrape.com/tag/music/page/1/"
+        }
     },
     {
         "Text": "“Today you are You, that is truer than true. There is no one alive who is Youer than You.”",
         "Author": "Dr. Seuss",
         "About author": "https://quotes.toscrape.com/author/Dr-Seuss",
-        "Tags": "comedy,life,yourself"
+        "Tags": {
+            "love": "https://quotes.toscrape.com/tag/love/page/1/",
+            "poetry": "https://quotes.toscrape.com/tag/poetry/page/1/",
+            "happiness": "https://quotes.toscrape.com/tag/happiness/page/1/",
+            "attributed-no-source": "https://quotes.toscrape.com/tag/attributed-no-source/page/1/",
+            "humor": "https://quotes.toscrape.com/tag/humor/page/1/",
+            "religion": "https://quotes.toscrape.com/tag/religion/page/1/",
+            "comedy": "https://quotes.toscrape.com/tag/comedy/page/1/",
+            "life": "https://quotes.toscrape.com/tag/life/page/1/",
+            "yourself": "https://quotes.toscrape.com/tag/yourself/page/1/",
+            "children": "https://quotes.toscrape.com/tag/children/page/1/",
+            "fairy-tales": "https://quotes.toscrape.com/tag/fairy-tales/page/1/",
+            "imagination": "https://quotes.toscrape.com/tag/imagination/page/1/",
+            "music": "https://quotes.toscrape.com/tag/music/page/1/"
+        }
     },
     {
         "Text": "“If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.”",
         "Author": "Albert Einstein",
         "About author": "https://quotes.toscrape.com/author/Albert-Einstein",
-        "Tags": "children,fairy-tales"
+        "Tags": {
+            "love": "https://quotes.toscrape.com/tag/love/page/1/",
+            "poetry": "https://quotes.toscrape.com/tag/poetry/page/1/",
+            "happiness": "https://quotes.toscrape.com/tag/happiness/page/1/",
+            "attributed-no-source": "https://quotes.toscrape.com/tag/attributed-no-source/page/1/",
+            "humor": "https://quotes.toscrape.com/tag/humor/page/1/",
+            "religion": "https://quotes.toscrape.com/tag/religion/page/1/",
+            "comedy": "https://quotes.toscrape.com/tag/comedy/page/1/",
+            "life": "https://quotes.toscrape.com/tag/life/page/1/",
+            "yourself": "https://quotes.toscrape.com/tag/yourself/page/1/",
+            "children": "https://quotes.toscrape.com/tag/children/page/1/",
+            "fairy-tales": "https://quotes.toscrape.com/tag/fairy-tales/page/1/",
+            "imagination": "https://quotes.toscrape.com/tag/imagination/page/1/",
+            "music": "https://quotes.toscrape.com/tag/music/page/1/"
+        }
     },
     {
         "Text": "“It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default.”",
         "Author": "J.K. Rowling",
         "About author": "https://quotes.toscrape.com/author/J-K-Rowling",
-        "Tags": ""
+        "Tags": {
+            "love": "https://quotes.toscrape.com/tag/love/page/1/",
+            "poetry": "https://quotes.toscrape.com/tag/poetry/page/1/",
+            "happiness": "https://quotes.toscrape.com/tag/happiness/page/1/",
+            "attributed-no-source": "https://quotes.toscrape.com/tag/attributed-no-source/page/1/",
+            "humor": "https://quotes.toscrape.com/tag/humor/page/1/",
+            "religion": "https://quotes.toscrape.com/tag/religion/page/1/",
+            "comedy": "https://quotes.toscrape.com/tag/comedy/page/1/",
+            "life": "https://quotes.toscrape.com/tag/life/page/1/",
+            "yourself": "https://quotes.toscrape.com/tag/yourself/page/1/",
+            "children": "https://quotes.toscrape.com/tag/children/page/1/",
+            "fairy-tales": "https://quotes.toscrape.com/tag/fairy-tales/page/1/",
+            "imagination": "https://quotes.toscrape.com/tag/imagination/page/1/",
+            "music": "https://quotes.toscrape.com/tag/music/page/1/"
+        }
     },
     {
         "Text": "“Logic will get you from A to Z; imagination will get you everywhere.”",
         "Author": "Albert Einstein",
         "About author": "https://quotes.toscrape.com/author/Albert-Einstein",
-        "Tags": "imagination"
+        "Tags": {
+            "love": "https://quotes.toscrape.com/tag/love/page/1/",
+            "poetry": "https://quotes.toscrape.com/tag/poetry/page/1/",
+            "happiness": "https://quotes.toscrape.com/tag/happiness/page/1/",
+            "attributed-no-source": "https://quotes.toscrape.com/tag/attributed-no-source/page/1/",
+            "humor": "https://quotes.toscrape.com/tag/humor/page/1/",
+            "religion": "https://quotes.toscrape.com/tag/religion/page/1/",
+            "comedy": "https://quotes.toscrape.com/tag/comedy/page/1/",
+            "life": "https://quotes.toscrape.com/tag/life/page/1/",
+            "yourself": "https://quotes.toscrape.com/tag/yourself/page/1/",
+            "children": "https://quotes.toscrape.com/tag/children/page/1/",
+            "fairy-tales": "https://quotes.toscrape.com/tag/fairy-tales/page/1/",
+            "imagination": "https://quotes.toscrape.com/tag/imagination/page/1/",
+            "music": "https://quotes.toscrape.com/tag/music/page/1/"
+        }
     },
     {
         "Text": "“One good thing about music, when it hits you, you feel no pain.”",
         "Author": "Bob Marley",
         "About author": "https://quotes.toscrape.com/author/Bob-Marley",
-        "Tags": "music"
+        "Tags": {
+            "love": "https://quotes.toscrape.com/tag/love/page/1/",
+            "poetry": "https://quotes.toscrape.com/tag/poetry/page/1/",
+            "happiness": "https://quotes.toscrape.com/tag/happiness/page/1/",
+            "attributed-no-source": "https://quotes.toscrape.com/tag/attributed-no-source/page/1/",
+            "humor": "https://quotes.toscrape.com/tag/humor/page/1/",
+            "religion": "https://quotes.toscrape.com/tag/religion/page/1/",
+            "comedy": "https://quotes.toscrape.com/tag/comedy/page/1/",
+            "life": "https://quotes.toscrape.com/tag/life/page/1/",
+            "yourself": "https://quotes.toscrape.com/tag/yourself/page/1/",
+            "children": "https://quotes.toscrape.com/tag/children/page/1/",
+            "fairy-tales": "https://quotes.toscrape.com/tag/fairy-tales/page/1/",
+            "imagination": "https://quotes.toscrape.com/tag/imagination/page/1/",
+            "music": "https://quotes.toscrape.com/tag/music/page/1/"
+        }
     }
 ]
